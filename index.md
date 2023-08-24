@@ -1,11 +1,22 @@
 ---
 layout: default
-title: Student Blog
+title: Eshaan Kumar's CSP Student Blog
 ---
 
+## Eshaan Kumar's CSP Student Blog 
+This is about my journey. Take a look around!
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Tennis
+
+
+## Hobbies
+I enjoy watching movies, listening to music
+
+## Sports
+I enjoy watching football and playing fantasy g
+
+## Computer Science
+I love computer science and this class is my favorite.
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
